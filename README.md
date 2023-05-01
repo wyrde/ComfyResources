@@ -15,8 +15,10 @@
 ```
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
 
+## Special Mention
 
-
+* ltdrdata's [Comfy Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+  * help organize and install various custom nodes
 
 
 happy nodes,
