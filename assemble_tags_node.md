@@ -85,3 +85,12 @@ Show Seed:
 1. It can be connected to VAE Decode, there are as many KSampler seeds as there are in the process, and you can copy corresponding seeds for use. When we generate images, we think the generated images are pretty good. If we wanted to modify the seeds a little bit, we couldn't get the generated seeds, because the seeds shown in KSampler will generate the next seeds immediately after the call. In this case, you can use this node to solve your needs
 
 https://civitai.com/user/xww911
+This model permits users to:
+
+y Use the model without crediting the creator
+n Sell images they generate
+n Run on services that generate images for money
+y Share merges using this model
+n Sell this model or merges using this model
+y Have different permissions when sharing merges
+
