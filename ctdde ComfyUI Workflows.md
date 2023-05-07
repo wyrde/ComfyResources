@@ -10,9 +10,7 @@ Install https://github.com/Fannovel16/comfy_controlnet_preprocessors
 
 thanks to Fannovel16
 
-Download:
-
-https://civitai.com/models/9251/controlnet-pre-trained-models
+Download:  https://civitai.com/models/9251/controlnet-pre-trained-models
 
 at least Canny, Depth is optional
 

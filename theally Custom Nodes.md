@@ -23,3 +23,9 @@ http://patreon.com/theally
 
 
 https://civitai.com/user/theally
+n Use the model without crediting the creator
+n Sell images they generate
+n Run on services that generate images for money
+n Share merges using this model
+n Sell this model or merges using this model
+n Have different permissions when sharing merges
