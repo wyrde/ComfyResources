@@ -1,9 +1,8 @@
 ImagesGrid X-Y Plot
 ========================
-
 ImagesGrid: Comfy plugin (X/Y Plot)
-
-https://civitai.com/models/31126/imagesgrid-comfy-plugin-xy-plot
+* civit: https://civitai.com/models/31126/imagesgrid-comfy-plugin-xy-plot
+* repo:  https://github.com/LEv145/images-grid-comfy-plugin
 
 ImagesGrid (X/Y Plot): Comfy plugin
 
