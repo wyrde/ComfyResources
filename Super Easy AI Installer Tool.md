@@ -1,7 +1,7 @@
 Super Easy AI Installer Tool
 ========================
 Super Easy AI Installer Tool
-* civit: https://civitai.com/models/27574/
+* web: https://civitai.com/models/27574/
 * repo: https://github.com/diStyApps/seait
 
 "Super Easy AI Installer Tool" is a user-friendly application that simplifies the installation process of AI-related repositories for users. The tool is designed to provide an easy-to-use solution for accessing and installing AI repositories with minimal technical hassle to none the tool will automatically handle the installation process, making it easier for users to access and use AI tools.

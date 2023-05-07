@@ -1,7 +1,7 @@
 Node setup - LoRA Stack
 ========================
 ComfyUI Node setup - LoRA Stack
-* civit: https://civitai.com/models/50440/comfyui-node-setup-lora-stack
+* web: https://civitai.com/models/50440/comfyui-node-setup-lora-stack
 * repo: 
 
 

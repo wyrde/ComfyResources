@@ -1,7 +1,7 @@
 Vid2vid Node Suite
 ========================
 Vid2vid Node Suite for ComfyUI
-* civit: https://civitai.com/models/26799/vid2vid-node-suite-for-comfyui
+* web: https://civitai.com/models/26799/vid2vid-node-suite-for-comfyui
 * repo: https://github.com/sylym/comfy_vid2vid
 
 Vid2vid Node Suite for ComfyUI

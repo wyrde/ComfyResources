@@ -1,7 +1,7 @@
 Masquerade Nodes
 ========================
 Masquerade Nodes - ComfyUI
-* civit: https://civitai.com/models/52723/masquerade-nodes-comfyui
+* web: https://civitai.com/models/52723/masquerade-nodes-comfyui
 * repo: https://github.com/BadCafeCode/masquerade-nodes-comfyui
 
 This is a node pack for ComfyUI, primarily dealing with masks.

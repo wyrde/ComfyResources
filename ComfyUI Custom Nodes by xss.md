@@ -1,7 +1,7 @@
 ComfyUI Custom Nodes by xss
 ========================
 ComfyUI Custom Nodes by xss
-* civit: https://civitai.com/models/24869/comfyui-custom-nodes-by-xss
+* web: https://civitai.com/models/24869/comfyui-custom-nodes-by-xss
 * repo: 
 
 Custom Nodes for ComfyUI

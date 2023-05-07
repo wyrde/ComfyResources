@@ -1,7 +1,7 @@
 Efficiency Nodes for ComfyU
 ========================
 Efficiency Nodes for ComfyU
-* civit: https://civitai.com/models/32342/efficiency-nodes-for-comfyui
+* web: https://civitai.com/models/32342/efficiency-nodes-for-comfyui
 * repo: https://github.com/LucianoCirino/efficiency-nodes-comfyui
 
 A collection of ComfyUI custom nodes to help streamline workflows and reduce total node count.

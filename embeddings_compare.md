@@ -1,7 +1,7 @@
 embeddings_compare
 ========================
 embeddings_compare ComfyUI
-* civit: https://civitai.com/models/54555/embeddingscompare-comfyui
+* web: https://civitai.com/models/54555/embeddingscompare-comfyui
 * repo: 
 
 This is a node setup workflow to compare different textual inversion embeddings in comfyUI.
