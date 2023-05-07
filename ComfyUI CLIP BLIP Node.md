@@ -1,7 +1,7 @@
 ComfyUI CLIP BLIP Node
 ========================
 ComfyUI CLIP BLIP Node
-
+* c
 https://civitai.com/models/42974/comfyui-clip-blip-node
 
 CLIPTextEncode Node with BLIP
@@ -48,3 +48,10 @@ Acknowledgement
 ![312029](../media/312029.png)
 ![312032](../media/312032.png)
 
+https://civitai.com/user/PauloCoronado
+y Use the model without crediting the creator
+n Sell images they generate
+n Run on services that generate images for money
+y Share merges using this model
+n Sell this model or merges using this model
+y Have different permissions when sharing merges
