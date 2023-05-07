@@ -1,7 +1,7 @@
 WASs ComfyUI Workspaces
 ========================
 WAS's ComfyUI Workspaces (HR-Fix and more!)
-* civit: https://civitai.com/models/20215/wass-comfyui-workspaces-hr-fix-and-more
+* web: https://civitai.com/models/20215/wass-comfyui-workspaces-hr-fix-and-more
 * repo: 
 
 These are worksapces to load into ComfyUI for various tasks such as HR-Fix with AI Model Upscaling

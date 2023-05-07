@@ -1,7 +1,7 @@
 theally ComfyUI Custom Workflows
 ========================
 ComfyUI Custom Workflows
-* civit: https://civitai.com/models/20443/
+* web: https://civitai.com/models/20443/
 * repo: 
 
 These files are Custom Workflows for ComfyUI

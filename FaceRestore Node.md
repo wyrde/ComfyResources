@@ -1,7 +1,7 @@
 FaceRestore Node
 ========================
 ComfyUI - FaceRestore Node
-* civit: https://civitai.com/models/24690/
+* web: https://civitai.com/models/24690/
 * repo:
 
 FaceRestore node for ComfyUI. To install copy the facerestore directory from the zip to the custom_nodes directory in ComfyUI.

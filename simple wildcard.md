@@ -1,7 +1,7 @@
 simple wildcard
 ========================
 simple wildcard for ComfyUI
-* civit: https://civitai.com/models/21611/
+* web: https://civitai.com/models/21611/
 * repo: https://github.com/lilly1987/ComfyUI_node_Lilly
 
 ```

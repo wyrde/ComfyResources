@@ -1,7 +1,7 @@
 Loopback nodes
 ========================
 ComfyUI - Loopback nodes
-* civit: https://civitai.com/models/26836/comfyui-loopback-nodes
+* web: https://civitai.com/models/26836/comfyui-loopback-nodes
 * repo:
 
 Loop the output of one generation into the next generation.

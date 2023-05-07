@@ -1,8 +1,7 @@
 theally Custom Nodes
 ========================
-
 ComfyUI Custom Nodes
-* civit: https://civitai.com/models/19625/
+* web: https://civitai.com/models/19625/
 * repo: 
 
 These files are Custom Nodes for ComfyUI
