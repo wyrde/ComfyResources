@@ -25,7 +25,11 @@ This page can be used as a template.
 * filename
 * 24 =
 * full project name
-* web
+* web: URL for project website (usually civitai)
+* web1: alternate URL. For each additional, add a number
+* repo: git-or other cvs system-enabled repository
+* space
+ the rest is fluff.
 
 ## Special Mention
 
