@@ -1,10 +1,8 @@
 ComfyUI Colab
 ========================
 ComfyUI Colab
-
-https://civitai.com/models/25284/comfyui-colab
-
-https://github.com/camenduru/comfyui-colab
+* civit: https://civitai.com/models/25284/comfyui-colab
+* repo: https://github.com/camenduru/comfyui-colab
 
 🐣 Please follow me for new updates https://twitter.com/camenduru
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU

@@ -1,9 +1,8 @@
 Derfuu Math and Modded Nodes
 ========================
-
 ComfyUI Derfuu Math and Modded Nodes
-
-https://civitai.com/models/21558/
+* civit: https://civitai.com/models/21558/
+* repo: 
 
 ComfyUI: https://github.com/comfyanonymous/ComfyUI
 
