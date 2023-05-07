@@ -13,6 +13,7 @@ README for ComfyUI Resources
 * Links to resources and sources other than those hosted by civit are okay! 
 * If you're the owner of a resource and want to improve the listing, add links, or even an archive, open PRs with the changes. Though in most cases I'd much rather a link to github, huggingfaces, or other repo be provided rather than releases. If you desire images/archives included in a listing, please create a subdirectory and place everything in there to keep the main area tidy.
   * example:
+
 ```
     nodename\
              readme.md
@@ -20,10 +21,12 @@ README for ComfyUI Resources
              node.zip
              node.png
 ```
+
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
 
 ##  md fille format
 This page can be used as a template.
+
 ```
 filename
 ========================
