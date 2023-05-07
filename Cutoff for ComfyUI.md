@@ -1,9 +1,8 @@
 Cutoff for ComfyUI
 ========================
-
 Cutoff for ComfyUI
-
-https://civitai.com/models/28295/cutoff-for-comfyui
+* civit: https://civitai.com/models/28295/cutoff-for-comfyui
+* repo: https://github.com/BlenderNeko/ComfyUI_Cutoff
 
 This is a node based implementation of the [cutoff extension](https://github.com/hnmr293/sd-webui-cutoff) for A1111. Cutoff is a method to limit the influence of specific tokens to certain regions of the prompt. This can be helpful if you want to e.g. specify exactly what colors certain things in the generated image should be.
 
