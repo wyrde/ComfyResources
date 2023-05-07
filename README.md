@@ -1,7 +1,7 @@
 README
 ========================
 README for ComfyUI Resources
-* web: 
+* web: https://github.com/wyrde/ComfyResources
 * web1:
 * repo:  https://github.com/wyrde/ComfyResources
 
@@ -32,9 +32,13 @@ full project name
 * web1: alternate URL. For each additional, add a number
 * repo: git-or other cvs system-enabled repository
 
-the rest is project text with no standard format
+main body: the rest is project text with no standard format
 ```
-The file name is also a short name for the project. Leave "Comfy" or "ComfyUI" off since, logically, that's what all the files in this repo are for.
+
+* The file name is also a short name for the project. Leave "Comfy" or "ComfyUI" off since, logically, that's what all the files in this repo are for.
+* websites are places the nodes/files can be downloaded
+* social media and other links should go in the main body
+
 
 ## Special Mention
 
