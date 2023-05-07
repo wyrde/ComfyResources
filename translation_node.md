@@ -2,6 +2,7 @@ translation_node
 ========================
 comfyui comfy_translation_node
 * civit: https://civitai.com/models/42647/comfyui-comfytranslationnode
+* alt: https://civitai.com/models/38309/comfyui-comfyui-comfytranslation
 * repo: https://github.com/laojingwei/comfy_translation_node
 
 comfy_translation_node
