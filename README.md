@@ -1,4 +1,4 @@
-# README
+README
 ========================
 README for ComfyUI Resources
 * web: 
@@ -22,14 +22,16 @@ README for ComfyUI Resources
 
 ##  md fille format
 This page can be used as a template.
-* filename
-* 24 =
-* full project name
+```
+filename
+========================
+full project name
 * web: URL for project website (usually civitai)
 * web1: alternate URL. For each additional, add a number
 * repo: git-or other cvs system-enabled repository
-* space
- the rest is fluff.
+
+the rest is project text with no standard format
+```
 
 ## Special Mention
 
