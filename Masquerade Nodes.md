@@ -24,10 +24,9 @@ Note that you may have to update ComfyUI to be able to inpaint with more than on
 
 https://civitai.com/user/BadCafeCode
 This model permits users to:
-
 n Use the model without crediting the creator
 y Sell images they generate
 y Run on services that generate images for money
 n Share merges using this model
 n Sell this model or merges using this model
-Have different permissions when sharing merges
+y Have different permissions when sharing merges
