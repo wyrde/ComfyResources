@@ -1,8 +1,8 @@
 ComfyUI CLIP BLIP Node
 ========================
 ComfyUI CLIP BLIP Node
-* c
-https://civitai.com/models/42974/comfyui-clip-blip-node
+* civit: https://civitai.com/models/42974/comfyui-clip-blip-node
+* repo: 
 
 CLIPTextEncode Node with BLIP
 Dependencies
