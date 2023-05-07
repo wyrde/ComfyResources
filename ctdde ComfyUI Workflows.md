@@ -1,9 +1,7 @@
 ctdde ComfyUI Workflows
 ========================
-
 ComfyUI Workflows
-
-https://civitai.com/models/22651/
+* civit https://civitai.com/models/22651/
 
 nstallation:
 
