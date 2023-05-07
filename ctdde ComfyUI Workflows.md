@@ -2,8 +2,9 @@ ctdde ComfyUI Workflows
 ========================
 ComfyUI Workflows
 * civit https://civitai.com/models/22651/
+* repo:
 
-nstallation:
+## Installation:
 
 Install https://github.com/Fannovel16/comfy_controlnet_preprocessors
 
