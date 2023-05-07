@@ -1,8 +1,8 @@
 NodeGPT
 ========================
 NodeGPT
-
-https://civitai.com/models/33905/nodegpt
+* civit: https://civitai.com/models/33905/nodegpt
+* repo: https://github.com/xXAdonesXx/NodeGPT
 
 ComfyUI Extension Nodes for Automated Text Generation.
 
