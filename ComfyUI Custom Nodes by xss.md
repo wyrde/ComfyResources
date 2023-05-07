@@ -21,4 +21,11 @@ Installation
     Have fun!
 
 https://civitai.com/user/xss
+This model permits users to:
 
+y Use the model without crediting the creator
+y Sell images they generate
+n Run on services that generate images for money
+y Share merges using this model
+n Sell this model or merges using this model
+y Have different permissions when sharing merges

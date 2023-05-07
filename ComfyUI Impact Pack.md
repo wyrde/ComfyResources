@@ -1,8 +1,6 @@
 ComfyUI Impact Pack
 ========================
-
 ComfyUI Impact Pack
-
 https://civitai.com/models/33192/comfyui-impact-pack
 
 This custom node pack provides various model-based detection nodes and a detailer node that recreates mask areas in high resolution. It also offers simple inpainting assistant functions such as a mask editor.
