@@ -1,9 +1,8 @@
 wyrdes ComfyUI Workflows
 ========================
-
 wyrde's ComfyUI Workflows
-
-https://civitai.com/models/28719/wyrdes-comfyui-workflows
+* civit: https://civitai.com/models/28719/wyrdes-comfyui-workflows
+* repo: 
 
 wyrde's workflows for various things
 

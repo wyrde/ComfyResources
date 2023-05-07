@@ -1,9 +1,8 @@
 Quality of life Suit V2
 ========================
-
 ComfyUI "Quality of life Suit:V2" (auto Update,Chat GPT , DallE-2 ,Math, ... and more )
-
-https://civitai.com/models/21996
+* civit: https://civitai.com/models/21996
+* repo: https://github.com/omar92
 
 If you like my work Kindly like,rate and comment XD
 
