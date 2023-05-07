@@ -1,10 +1,8 @@
 WASs ComfyUI Workspaces
 ========================
-
 WAS's ComfyUI Workspaces (HR-Fix and more!)
-
-https://civitai.com/models/20215/wass-comfyui-workspaces-hr-fix-and-more
-
+* civit: https://civitai.com/models/20215/wass-comfyui-workspaces-hr-fix-and-more
+* repo: 
 These are worksapces to load into ComfyUI for various tasks such as HR-Fix with AI Model Upscaling
 
 Note: WAS's Comprehensive Node Suite (WAS Node Suite) has a bloom filter now which works similar, except provides a high frequency pass to base the bloom off of. This is more accurate and used in screen-space bloom like in video games.

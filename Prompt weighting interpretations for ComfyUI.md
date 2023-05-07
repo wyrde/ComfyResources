@@ -1,6 +1,5 @@
 Prompt weighting interpretations for ComfyUI
 ========================
-
 Prompt weighting interpretations for ComfyUI
 * civit: https://civitai.com/models/46229
 * repo: https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb

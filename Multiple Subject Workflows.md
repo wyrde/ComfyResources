@@ -1,10 +1,9 @@
 Multiple Subject Workflows
 ========================
-
 Multiple Subject Workflows
+* civit: https://civitai.com/models/21100/
+* repo: 
 
-civit: https://civitai.com/models/21100/
-repo
 This is a collection of custom workflows for ComfyUI
 
 They can generate multiple subjects. Each subject has its own prompt.
