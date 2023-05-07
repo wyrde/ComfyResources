@@ -18,8 +18,14 @@ README for ComfyUI Resources
              node.zip
              node.png
 ```
-* md fil
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
+
+##  md fille format
+This page can be used as a template.
+* filename
+* 24 =
+* full project name
+* web
 
 ## Special Mention
 
