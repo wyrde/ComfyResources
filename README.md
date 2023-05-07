@@ -5,6 +5,8 @@ README for ComfyUI Resources
 * web1:
 * repo:  https://github.com/wyrde/ComfyResources
 
+## Purpose
+
 * This is a simple copy of the ComfyUI resources pages on [Civitai.com](https://civitai.com/tag/comfyui)
 * It is meant to be an emergancy source of links and is not meant to be comprehensive or complete. Only the top page of each listing is here.
 * If you are the owner of a resource and want it removed, do a local fork removing it on github and a PR. (This is the easiest way to authenticate ownership.)
@@ -32,6 +34,7 @@ full project name
 
 the rest is project text with no standard format
 ```
+The file name is also a short name for the project. Leave "Comfy" or "ComfyUI" off since, logically, that's what all the files in this repo are for.
 
 ## Special Mention
 
