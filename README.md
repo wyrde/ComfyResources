@@ -1,8 +1,9 @@
 # README
 ========================
 README for ComfyUI Resources
-* web: https://civitai.com/models/46229
-* repo
+* web: 
+* web1:
+* repo:  https://github.com/wyrde/ComfyResources
 
 * This is a simple copy of the ComfyUI resources pages on [Civitai.com](https://civitai.com/tag/comfyui)
 * It is meant to be an emergancy source of links and is not meant to be comprehensive or complete. Only the top page of each listing is here.
@@ -17,6 +18,7 @@ README for ComfyUI Resources
              node.zip
              node.png
 ```
+* md fil
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
 
 ## Special Mention
