@@ -2,7 +2,7 @@ Derfuu Math and Modded Nodes
 ========================
 ComfyUI Derfuu Math and Modded Nodes
 * civit: https://civitai.com/models/21558/
-* repo: 
+* repo: https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions
 
 ComfyUI: https://github.com/comfyanonymous/ComfyUI
 
@@ -56,12 +56,19 @@ This code is at the end of this file: /ComfyUI/comfy/ldm/modules/diffusionmodule
 
 NOTES#2:
 
-    Debug nodes counts as OUTPUT nodes and can be used withowt image preview or save nodes to get results
+Debug nodes counts as OUTPUT nodes and can be used withowt image preview or save nodes to get results
 
 P.S.:
 
-    All fixes wou can find or post on github, i look there too
+All fixes wou can find or post on github, i look there too
 
-    If you catch error like: Calculated padded input size per channel: (2 x 82). Kernel size: (3 x 3). Kernel size can't be greater than actual input size. This MAY be because of too high or low offset you give to node
+If you catch error like: Calculated padded input size per channel: (2 x 82). Kernel size: (3 x 3). Kernel size can't be greater than actual input size. This MAY be because of too high or low offset you give to node
     
 https://civitai.com/user/Derfuu
+This model permits users to:
+y Use the model without crediting the creator
+y Sell images they generate
+y Run on services that generate images for money
+y Share merges using this model
+n Sell this model or merges using this model
+y Have different permissions when sharing merges
