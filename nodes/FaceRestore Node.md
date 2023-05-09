@@ -1,6 +1,7 @@
 FaceRestore Node
 ========================
-ComfyUI - FaceRestore Node
+# ComfyUI - FaceRestore Node
+
 * web: https://civitai.com/models/24690/
 * repo:
 

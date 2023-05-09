@@ -1,6 +1,7 @@
 WASs ComfyUI Workspaces
 ========================
-WAS's ComfyUI Workspaces (HR-Fix and more!)
+# WAS's ComfyUI Workspaces (HR-Fix and more!)
+
 * web: https://civitai.com/models/20215/wass-comfyui-workspaces-hr-fix-and-more
 * repo: 
 

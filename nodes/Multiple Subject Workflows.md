@@ -1,7 +1,7 @@
 Multiple Subject Workflows
 ========================
 
-Multiple Subject Workflows
+# Multiple Subject Workflows
 
 * web: https://civitai.com/models/21100/
 * repo: 
