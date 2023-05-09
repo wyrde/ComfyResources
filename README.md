@@ -44,6 +44,7 @@ main body: the rest is project text with no standard format
 
 * The file name is also a short name for the project. In most caes, "Comfy" or "ComfyUI" can be left off since, logically, that's what all the files in this repo are for.
 * The blank lines are important for formatting
+* The `*` are for generating a list
 * websites are places the nodes/files can be downloaded
 * social media and other links should go in the main body
 
