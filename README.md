@@ -1,7 +1,7 @@
 README
 ========================
 
-# wyrde's ComfyUI Resources Listintg
+# wyrde's ComfyUI Resources Listing
 
 * web: [https://wyrde.github.io/ComfyResources/](https://wyrde.github.io/ComfyResources/)
 * repo: [https://github.com/wyrde/ComfyResources](https://github.com/wyrde/ComfyResources)
