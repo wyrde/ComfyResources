@@ -1,6 +1,7 @@
 Cutoff for ComfyUI
 ========================
-Cutoff for ComfyUI
+# Cutoff for ComfyUI
+
 * web: https://civitai.com/models/28295/cutoff-for-comfyui
 * repo: https://github.com/BlenderNeko/ComfyUI_Cutoff
 

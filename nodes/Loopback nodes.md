@@ -1,6 +1,7 @@
 Loopback nodes
 ========================
-ComfyUI - Loopback nodes
+# ComfyUI - Loopback nodes
+
 * web: https://civitai.com/models/26836/comfyui-loopback-nodes
 * repo:
 

@@ -1,6 +1,8 @@
 GPT node ComfyUI
 ========================
-GPT node ComfyUI
+
+# GPT node ComfyUI
+
 * web: https://civitai.com/models/31696/gpt-node-comfyui
 * repo:
 

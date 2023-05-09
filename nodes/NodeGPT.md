@@ -1,6 +1,7 @@
 NodeGPT
 ========================
-NodeGPT
+# NodeGPT
+
 * web: https://civitai.com/models/33905/nodegpt
 * repo: https://github.com/xXAdonesXx/NodeGPT
 

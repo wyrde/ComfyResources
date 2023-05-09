@@ -1,6 +1,7 @@
 Simple text style template node
 ========================
-Simple text style template node for ComfyUi
+# Simple text style template node for ComfyUi
+
 * web: https://civitai.com/models/28238/simple-text-style-template-node-for-comfyui
 * repo:
 

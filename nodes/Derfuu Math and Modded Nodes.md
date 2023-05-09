@@ -1,6 +1,7 @@
 Derfuu Math and Modded Nodes
 ========================
-ComfyUI Derfuu Math and Modded Nodes
+# ComfyUI Derfuu Math and Modded Nodes
+
 * web: https://civitai.com/models/21558/
 * repo: https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions
 
