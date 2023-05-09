@@ -5,7 +5,7 @@ repo_url: https://github.com/wyrde/ComfyResources
 # edit_uri: ComfyResources
 site_author: wyrde
 copyright: Copyright &copy; 2023 wyrde licensed as cc-by-sa
-docs_dir: ./nodes
+docs_dir: ./docs
 theme:
   name: material
   features:
