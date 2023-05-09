@@ -3,9 +3,9 @@ README
 
 # README for ComfyUI Resources
 
-* web: https://github.com/wyrde/ComfyResources
-* web1:
-* repo:  https://github.com/wyrde/ComfyResources
+* web: [https://wyrde.github.io/ComfyResources/](https://wyrde.github.io/ComfyResources/) (this page)
+* web1: 
+* repo: [https://github.com/wyrde/ComfyResources](https://github.com/wyrde/ComfyResources)
 
 ## Purpose
 
