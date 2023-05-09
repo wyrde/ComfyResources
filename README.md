@@ -1,11 +1,10 @@
 README
 ========================
 
-# README for ComfyUI Resources
+# wyrde's ComfyUI Resources Listintg
 
-* web: https://github.com/wyrde/ComfyResources
-* web1:
-* repo:  https://github.com/wyrde/ComfyResources
+* web: [https://wyrde.github.io/ComfyResources/](https://wyrde.github.io/ComfyResources/)
+* repo: [https://github.com/wyrde/ComfyResources](https://github.com/wyrde/ComfyResources)
 
 ## Purpose
 
@@ -17,23 +16,28 @@ README
   * example:
 
 ```
-    nodename\
+docs/
+	nodename0.md
+    nodename1/
              readme.md
              node.py
              node.zip
              node.png
+	nodename2.md
+	...
 ```
 
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
 
 ##  md fille format
-This page can be used as a template.
+
+The main [index page](https://wyrde.github.io/ComfyResources/) can be used as a template. 
 
 ```
 filename
 ========================
 
-# full project name
+# project name
 
 * web: URL for project website (usually civitai)
 * web1: alternate URL. For each additional, add a number
@@ -43,6 +47,7 @@ main body: the rest is project text with no standard format
 ```
 
 * The file name is also a short name for the project. In most caes, "Comfy" or "ComfyUI" can be left off since, logically, that's what all the files in this repo are for.
+* project name can be more verbose. It's helpful if it includes the author's name (github or civit handle, etc)
 * The blank lines are important for formatting
 * The `*` are for generating a list
 * websites are places the nodes/files can be downloaded
