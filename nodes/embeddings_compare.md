@@ -1,6 +1,8 @@
 embeddings_compare
 ========================
-embeddings_compare ComfyUI
+
+# embeddings_compare ComfyUI
+
 * web: https://civitai.com/models/54555/embeddingscompare-comfyui
 * repo: 
 

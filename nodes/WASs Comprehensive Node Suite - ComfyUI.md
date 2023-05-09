@@ -1,6 +1,8 @@
 WASs Comprehensive Node Suite - ComfyUI
 ========================
-WAS's Comprehensive Node Suite - ComfyUI
+
+# WAS's Comprehensive Node Suite - ComfyUI
+
 * web: https://civitai.com/models/20793/
 * repo: https://github.com/WASasquatch/was-node-suite-comfyui
 

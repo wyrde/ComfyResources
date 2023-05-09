@@ -1,6 +1,8 @@
 Super Easy AI Installer Tool
 ========================
-Super Easy AI Installer Tool
+
+# Super Easy AI Installer Tool
+
 * web: https://civitai.com/models/27574/
 * repo: https://github.com/diStyApps/seait
 

@@ -1,6 +1,8 @@
 ComfyUI Impact Pack
 ========================
-ComfyUI Impact Pack
+
+# ComfyUI Impact Pack
+
 * web: https://civitai.com/models/33192/comfyui-impact-pack
 * repo: https://github.com/ltdrdata/ComfyUI-Impact-Pack
 

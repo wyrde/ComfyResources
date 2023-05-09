@@ -1,6 +1,8 @@
 Efficiency Nodes for ComfyU
 ========================
-Efficiency Nodes for ComfyU
+
+# Efficiency Nodes for ComfyU
+
 * web: https://civitai.com/models/32342/efficiency-nodes-for-comfyui
 * repo: https://github.com/LucianoCirino/efficiency-nodes-comfyui
 
