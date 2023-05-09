@@ -1,7 +1,7 @@
 ComfyUI CLIP BLIP Node
 ========================
 
-ComfyUI CLIP BLIP Node
+# ComfyUI CLIP BLIP Node
 
 * web: https://civitai.com/models/42974/comfyui-clip-blip-node
 * repo: 

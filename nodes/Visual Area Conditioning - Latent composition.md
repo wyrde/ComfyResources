@@ -1,6 +1,7 @@
 Visual Area Conditioning - Latent composition
 ========================
-ComfyUI - Visual Area Conditioning / Latent composition
+
+# ComfyUI - Visual Area Conditioning / Latent composition
 
 * web: https://civitai.com/models/24537/
 * repo: https://github.com/Davemane42/ComfyUI_Dave_CustomNode

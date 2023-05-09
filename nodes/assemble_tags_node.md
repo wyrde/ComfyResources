@@ -1,6 +1,8 @@
 assemble_tags_node
 ========================
-comfyui comfy_assemble_tags_node
+
+# comfyui comfy_assemble_tags_node
+
 * web: https://civitai.com/models/49851/comfyui-comfyassembletagsnode
 * repo: https://github.com/laojingwei/comfy_assemble_tags_node
 
