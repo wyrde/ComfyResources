@@ -53,6 +53,17 @@ main body: the rest is project text with no standard format
 * websites are places the nodes/files can be downloaded
 * social media and other links should go in the main body
 
+## MkDocs
+
+Material for MkDocs is used to generate the document website from the .md files in docs/. Clone thet repo and run
+
+`    mkkdocs serve`
+
+in the root to bring up the live web preview. It recompiles and shows the result when files are saved after editing.
+
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [MkDocs](https://www.mkdocs.org/)
+
 
 ## Special Mention
 
