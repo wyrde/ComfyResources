@@ -2,4 +2,5 @@
 Config.json
 nsp_pantry.json
 output
-trash
+trash/
+build/

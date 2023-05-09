@@ -10,6 +10,7 @@ source_suffix = [
 extensions = [
     # Your existing extensions
     "myst_parser",
+	'sphinx.ext.duration',
 ]
 
 myst_enable_extensions = [
@@ -23,3 +24,6 @@ myst_enable_extensions = [
     "replacements",
     "substitution"
 ]
+
+# EPUB options
+epub_show_urls = 'footnote'
