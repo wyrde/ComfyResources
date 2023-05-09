@@ -7,6 +7,10 @@ README
 * web1: 
 * repo: [https://github.com/wyrde/ComfyResources](https://github.com/wyrde/ComfyResources)
 
+## Node List
+
+Click Nodes above or [click here](https://wyrde.github.io/ComfyResources/nodes/)
+
 ## Purpose
 
 * This is a simple copy of the ComfyUI resources pages on [Civitai.com](https://civitai.com/tag/comfyui)
