@@ -1,1 +1,4 @@
-# There should be a list of nodes to the left.
+# Node Index
+
+## There should be a list of nodes to the left.
+
