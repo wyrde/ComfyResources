@@ -16,15 +16,15 @@ README
   * example:
 
 ```
-docs/
-	nodename0.md
+docs/nodes/
+    nodename0.md
     nodename1/
              readme.md
              node.py
              node.zip
              node.png
-	nodename2.md
-	...
+    nodename2.md
+    ...
 ```
 
 * If you know of a resource missing from here, ask the author to open a PR adding it (or permission to do so)! That'd be awesome. (:
