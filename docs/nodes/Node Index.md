@@ -1,6 +1,6 @@
 # Node Index
 
-## There should be a list of nodes to the left.
+← There should be a list of nodes to the left.
 
 ## Installing
 
