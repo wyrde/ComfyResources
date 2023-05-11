@@ -1,4 +1,4 @@
-ComfyUI CLIP BLIP Node
+CLIP BLIP Node
 ========================
 
 # ComfyUI CLIP BLIP Node

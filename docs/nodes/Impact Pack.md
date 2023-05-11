@@ -1,4 +1,4 @@
-ComfyUI Impact Pack
+Impact Pack
 ========================
 
 # ComfyUI Impact Pack

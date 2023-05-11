@@ -1,4 +1,4 @@
-ComfyUI Custom Nodes by xss
+Custom Nodes by xss
 ========================
 
 # ComfyUI Custom Nodes by xss
