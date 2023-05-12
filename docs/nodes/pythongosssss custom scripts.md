@@ -1,7 +1,7 @@
 pythongosssss custom scripts
 ========================
 
-pythongossssss scripts and nodes
+# pythongossssss scripts and nodes
 
 * web:
 * repo: [https://github.com/pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
