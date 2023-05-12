@@ -9,7 +9,8 @@ README
 
 ## Node List
 
-Click Nodes above or [click here](./nodes/index.md) or [here](https://wyrde.github.io/ComfyResources/nodes/index/)
+* Click `Nodes` above or [click here](./nodes/index.md) for the wiki.
+* Click [here](https://github.com/wyrde/ComfyResources/tree/main/docs/nodes) for the repo.
 
 ## Purpose
 
