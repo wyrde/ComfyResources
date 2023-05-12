@@ -1,10 +1,14 @@
 trNodes
 ========================
 
-trNodes
+# trNodes
+
+* web: 
+* repo: [https://github.com/trojblue/trNodes](https://github.com/trojblue/trNodes)
 
 custom node modules for ComfyUI
-Installation
+
+## Installation
 
 1. git clone this repo under ComfyUI/custom_nodes
 1. install dependencies:
@@ -24,14 +28,14 @@ image_layering:
 
 color_correction:
 
-    Adjusts the color of the target image according to another image; ported from stable diffusion WebUI
+* Adjusts the color of the target image according to another image; ported from stable diffusion WebUI
 
 model_router:
 
-    Batch reroutes model, clip, vae, condition_1 and condition_2 for cleaner workflow
+* Batch reroutes model, clip, vae, condition_1 and condition_2 for cleaner workflow
 
-Use
+## Use
 
-    Install nodes
-    open ComfyUI
-    You'll find the new nodes under trNodes folder
+* Install nodes
+* open ComfyUI
+* You'll find the new nodes under trNodes folder
