@@ -9,7 +9,7 @@ README
 
 ## Node List
 
-Click Nodes above or [click here](./nodes) or [here](https://wyrde.github.io/ComfyResources/nodes/)
+Click Nodes above or [click here](./nodes/index.md) or [here](https://wyrde.github.io/ComfyResources/nodes/index/)
 
 ## Purpose
 
