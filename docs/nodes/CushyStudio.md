@@ -10,4 +10,4 @@ CushyStudio
 
 Requires a **ComfyUI** setup available.
 
-See also: CushyNodes
+See also: [CushyNodes](./CushyNodes)
