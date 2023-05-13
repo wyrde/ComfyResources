@@ -1,4 +1,4 @@
-Note 2023-05-13T18.52.34
+Custom Nodes Extensions and Tools List
 ========================
 
 # Custom Nodes, Extensions, and Tools for ComfyUI
@@ -6,4 +6,4 @@ Note 2023-05-13T18.52.34
 * web:
 * repo: https://github.com/WASasquatch/comfyui-plugins
 
-An alternative list of nodes
+An alternative list of nodes and resources
