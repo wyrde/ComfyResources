@@ -1,4 +1,4 @@
-plasma
+plasma noise generator
 ========================
 
 # Jordach comfy-plasma
