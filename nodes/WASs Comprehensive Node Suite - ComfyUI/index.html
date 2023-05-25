@@ -1,0 +1,1442 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="wyrde">
+      
+      
+      
+        <link rel="prev" href="../WASs%20ComfyUI%20Workspaces/">
+      
+      
+        <link rel="next" href="../assemble_tags_node/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.14">
+    
+    
+      
+        <title>WASs Comprehensive Node Suite ComfyUI - ComfyUI Resources</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.85bb2934.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.a6bdf11c.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#wass-comprehensive-node-suite-comfyui" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="ComfyUI Resources" class="md-header__button md-logo" aria-label="ComfyUI Resources" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ComfyUI Resources
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              WASs Comprehensive Node Suite   ComfyUI
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 2c-1.05 0-2.05.16-3 .46 4.06 1.27 7 5.04 7 9.54 0 4.5-2.94 8.27-7 9.54.95.3 1.95.46 3 .46a10 10 0 0 0 10-10A10 10 0 0 0 9 2Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/wyrde/ComfyResources" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link md-tabs__link--active">
+        Nodes
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="ComfyUI Resources" class="md-nav__button md-logo" aria-label="ComfyUI Resources" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ComfyUI Resources
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/wyrde/ComfyResources" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Nodes
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nodes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Allor%20Plugin/" class="md-nav__link">
+        Allor Plugin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CLIP%20BLIP%20Node/" class="md-nav__link">
+        CLIP BLIP Node
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ComfyBox/" class="md-nav__link">
+        ComfyBox
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ComfyUI%20Colab/" class="md-nav__link">
+        ComfyUI Colab
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ComfyUI%20Manager/" class="md-nav__link">
+        ComfyUI Manager
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CushyNodes/" class="md-nav__link">
+        CushyNodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CushyStudio/" class="md-nav__link">
+        CushyStudio
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Custom%20Nodes%20Extensions%20and%20Tools%20List/" class="md-nav__link">
+        Custom Nodes Extensions and Tools List
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Custom%20Nodes%20by%20xss/" class="md-nav__link">
+        Custom Nodes by xss
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cutoff%20for%20ComfyUI/" class="md-nav__link">
+        Cutoff for ComfyUI
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Derfuu%20Math%20and%20Modded%20Nodes/" class="md-nav__link">
+        Derfuu Math and Modded Nodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Efficiency%20Nodes%20for%20ComfyU/" class="md-nav__link">
+        Efficiency Nodes for ComfyU
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../FaceRestore%20Node/" class="md-nav__link">
+        FaceRestore Node
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../GPT%20node%20ComfyUI/" class="md-nav__link">
+        GPT node ComfyUI
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Image%20Processing/" class="md-nav__link">
+        Image Processing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ImagesGrid%20X-Y%20Plot/" class="md-nav__link">
+        ImagesGrid X Y Plot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Impact%20Pack/" class="md-nav__link">
+        Impact Pack
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Latent%20To%20RGB/" class="md-nav__link">
+        Latent To RGB
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Loopback%20nodes/" class="md-nav__link">
+        Loopback nodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Masquerade%20Nodes/" class="md-nav__link">
+        Masquerade Nodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Multiple%20Subject%20Workflows/" class="md-nav__link">
+        Multiple Subject Workflows
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Node%20setup%20-%20LoRA%20Stack/" class="md-nav__link">
+        Node setup   LoRA Stack
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NodeGPT/" class="md-nav__link">
+        NodeGPT
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Prompt%20weighting%20interpretations%20for%20ComfyUI/" class="md-nav__link">
+        Prompt weighting interpretations for ComfyUI
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quality%20of%20life%20Suit%20V2/" class="md-nav__link">
+        Quality of life Suit V2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Saveaswebp/" class="md-nav__link">
+        Saveaswebp
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Simple%20text%20style%20template%20node/" class="md-nav__link">
+        Simple text style template node
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Super%20Easy%20AI%20Installer%20Tool/" class="md-nav__link">
+        Super Easy AI Installer Tool
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vid2vid%20Node%20Suite/" class="md-nav__link">
+        Vid2vid Node Suite
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Visual%20Area%20Conditioning%20-%20Latent%20composition/" class="md-nav__link">
+        Visual Area Conditioning   Latent composition
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../WASs%20ComfyUI%20Workspaces/" class="md-nav__link">
+        WASs ComfyUI Workspaces
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        WASs Comprehensive Node Suite   ComfyUI
+      </a>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../assemble_tags_node/" class="md-nav__link">
+        Assemble tags node
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ctdde%20ComfyUI%20Workflows/" class="md-nav__link">
+        ctdde ComfyUI Workflows
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../embeddings_compare/" class="md-nav__link">
+        Embeddings compare
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plasma%20noise%20generator/" class="md-nav__link">
+        Plasma noise generator
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pythongosssss%20custom%20scripts/" class="md-nav__link">
+        Pythongosssss custom scripts
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../simple%20wildcard/" class="md-nav__link">
+        Simple wildcard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../string%20replace/" class="md-nav__link">
+        String replace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../theally%20ComfyUI%20Custom%20Workflows/" class="md-nav__link">
+        theally ComfyUI Custom Workflows
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../theally%20Custom%20Nodes/" class="md-nav__link">
+        theally Custom Nodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tinyterraNodes/" class="md-nav__link">
+        tinyterraNodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trNodes/" class="md-nav__link">
+        trNodes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../translation_node/" class="md-nav__link">
+        Translation node
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wyrdes%20ComfyUI%20Workflows/" class="md-nav__link">
+        wyrdes ComfyUI Workflows
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="wass-comprehensive-node-suite-comfyui">WASs Comprehensive Node Suite - ComfyUI</h1>
+<h1 id="wass-comprehensive-node-suite-comfyui_1">WAS's Comprehensive Node Suite - ComfyUI</h1>
+<ul>
+<li>web: https://civitai.com/models/20793/</li>
+<li>repo: https://github.com/WASasquatch/was-node-suite-comfyui</li>
+</ul>
+<p>WAS's Comprehensive Node Suite - ComfyUI - WAS#0263 https://github.com/WASasquatch/was-node-suite-comfyui</p>
+<p>ComfyUI is an advanced node based UI utilizing Stable Diffusion. It allows you to create customized workflows such as image post processing, or conversions.</p>
+<p>Latest Version Download</p>
+<p>A node suite for ComfyUI with many new nodes, such as image processing, text processing, and more.
+Share Workflows to the /workflows/ directory. Preferably embedded PNGs with workflows, but JSON is OK too. You can use this tool to add a workflow to a PNG file easily
+Important Updates</p>
+<pre><code>ASCII is deprecated. The new preferred method of text node output is TEXT. This is a change from ASCII so that it is more clear what data is being passed.
+
+    The was_suit_config.json will automatically set use_legacy_ascii_text to true for a transition period. You can enable TEXT output by setting use_legacy_ascii_text to false
+</code></pre>
+<p>Current Nodes:</p>
+<pre><code>BLIP Analyze Image: Get a text caption from a image, or interrogate the image with a question.
+
+    Model will download automatically from default URL, but you can point the download to another location/caption model in was_suite_config
+
+    Models will be stored in ComfyUI/models/blip/checkpoints/
+
+SAM Model Loader: Load a SAM Segmentation model
+
+SAM Parameters: Define your SAM parameters for segmentation of a image
+
+SAM Parameters Combine: Combine SAM parameters
+
+SAM Image Mask: SAM image masking
+
+Image Bounds: Bounds a image
+
+Inset Image Bounds: Inset a image bounds
+
+Bounded Image Blend: Blend bounds image
+
+Bounded Image Blend with Mask: Blend a bounds image by mask
+
+Bounded Image Crop: Crop a bounds image
+
+Bounded Image Crop with Mask: Crop a bounds image by mask
+
+CLIPTextEncode (NSP): Parse Noodle Soup Prompts
+
+Constant Number
+
+Dictionary to Console: Print a dictionary input to the console
+
+Image Analyze
+
+    Black White Levels
+
+    RGB Levels
+
+        Depends on matplotlib, will attempt to install on first run
+
+Image Blank: Create a blank image in any color
+
+Image Blend by Mask: Blend two images by a mask
+
+Image Blend: Blend two images by opacity
+
+Image Blending Mode: Blend two images by various blending modes
+
+Image Bloom Filter: Apply a high-pass based bloom filter
+
+Image Canny Filter: Apply a canny filter to a image
+
+Image Chromatic Aberration: Apply chromatic aberration lens effect to a image like in sci-fi films, movie theaters, and video games
+
+Image Color Palette
+
+    Generate a color palette based on the input image.
+
+        Depends on scikit-learn, will attempt to install on first run.
+
+    Supports color range of 8-256
+
+    Utilizes font in ./res/ unless unavailable, then it will utilize internal better then nothing font.
+
+Image Dragan Photography Filter: Apply a Andrzej Dragan photography style to a image
+
+Image Edge Detection Filter: Detect edges in a image
+
+Image Film Grain: Apply film grain to a image
+
+Image Filter Adjustments: Apply various image adjustments to a image
+
+Image Flip: Flip a image horizontal, or vertical
+
+Image Gradient Map: Apply a gradient map to a image
+
+Image Generate Gradient: Generate a gradient map with desired stops and colors
+
+Image High Pass Filter: Apply a high frequency pass to the image returning the details
+
+Image History Loader: Load images from history based on the Load Image Batch node. Can define max history in config file. (requires restart to show last sessions files at this time)
+
+Image Levels Adjustment: Adjust the levels of a image
+
+Image Load: Load a image from any path on the system, or a url starting with http
+
+Image Median Filter: Apply a median filter to a image, such as to smooth out details in surfaces
+
+Image Mix RGB Channels: Mix together RGB channels into a single iamge
+
+Image Monitor Effects Filter: Apply various monitor effects to a image
+
+    Digital Distortion
+
+        A digital breakup distortion effect
+
+    Signal Distortion
+
+        A analog signal distortion effect on vertical bands like a CRT monitor
+
+    TV Distortion
+
+        A TV scanline and bleed distortion effect
+
+Image Nova Filter: A image that uses a sinus frequency to break apart a image into RGB frequencies
+
+Image Perlin Noise Filter
+
+    Create perlin noise with pythonperlin module. Trust me, better then my implementations that took minutes...
+
+Image Remove Background (Alpha): Remove the background from a image by threshold and tolerance.
+
+Image Remove Color: Remove a color from a image and replace it with another
+
+Image Resize
+
+Image Rotate: Rotate an image
+
+Image Save: A save image node with format support and path support. (Bug: Doesn't display image
+
+Image Seamless Texture: Create a seamless texture out of a image with optional tiling
+
+Image Select Channel: Select a single channel of an RGB image
+
+Image Select Color: Return the select image only on a black canvas
+
+Image Shadows and Highlights: Adjust the shadows and highlights of an image
+
+Image Size to Number: Get the width and height of an input image to use with Number nodes.
+
+Image Stitch: Stitch images together on different sides with optional feathering blending between them.
+
+Image Style Filter: Style a image with Pilgram instragram-like filters
+
+    Depends on pilgram module
+
+Image Threshold: Return the desired threshold range of a image
+
+Image Transpose
+
+Image fDOF Filter: Apply a fake depth of field effect to an image
+
+Image to Latent Mask: Convert a image into a latent mask
+
+Image Voronoi Noise Filter
+
+    A custom implementation of the worley voronoi noise diagram
+
+Input Switch (Disable until * wildcard fix)
+
+KSampler (WAS): A sampler that accepts a seed as a node inpu
+
+Load Text File
+
+    Now supports outputting a dictionary named after the file, or custom input.
+
+    The dictionary contains a list of all lines in the file.
+
+Load Batch Images
+
+    Increment images in a folder, or fetch a single image out of a batch.
+
+    Will reset it's place if the path, or pattern is changed.
+
+    pattern is a glob that allows you to do things like **/* to get all files in the directory and subdirectory or things like *.jpg to select only JPEG images in the directory specified.
+
+Latent Noise Injection: Inject latent noise into a latent image
+
+Latent Size to Number: Latent sizes in tensor width/height
+
+Latent Upscale by Factor: Upscale a latent image by a facto
+
+MiDaS Depth Approximation: Produce a depth approximation of a single image input
+
+MiDaS Mask Image: Mask a input image using MiDaS with a desired color
+
+Number Operation
+
+Number to Seed
+
+Number to Float
+
+Number to Int
+
+Number to String
+
+Number to Text
+
+Random Number
+
+Save Text File: Save a text string to a file
+
+Seed: Return a seed
+
+Tensor Batch to Image: Select a single image out of a latent batch for post processing with filters
+
+Text Add Tokens: Add custom tokens to parse in filenames or other text.
+
+Text Add Token by Input: Add custom token by inputs representing single single line name and value of the token
+
+Text Concatenate: Merge two strings
+
+Text Dictionary Update: Merge two dictionaries
+
+Text File History: Show previously opened text files (requires restart to show last sessions files at this time)
+
+Text Find and Replace: Find and replace a substring in a string
+
+Text Find and Replace by Dictionary: Replace substrings in a ASCII text input with a dictionary.
+
+    The dictionary keys are used as the key to replace, and the list of lines it contains chosen at random based on the seed.
+
+Text Multiline: Write a multiline text string
+
+Text Parse A1111 Embeddings: Convert embeddings filenames in your prompts to embedding:[filename]] format based on your /ComfyUI/models/embeddings/ files.
+
+Text Parse Noodle Soup Prompts: Parse NSP in a text input
+
+Text Parse Tokens: Parse custom tokens in text.
+
+Text Random Line: Select a random line from a text input string
+
+Text String: Write a single line text string value
+
+Text to Conditioning: Convert a text string to conditioning.
+</code></pre>
+<p>Text Tokens</p>
+<p>Text tokens can be used in the Save Text File and Save Image nodes. You can also add your own custom tokens with the Text Add Tokens node.</p>
+<p>The token name can be anything excluding the : character to define your token. It can also be simple Regular Expressions.
+Built-in Tokens</p>
+<pre><code>[time]
+
+    The current system microtime
+
+[time(format_code)]
+
+    The current system time in human readable format. Utilizing datetime formatting
+
+    Example: [hostname]_[time]__[time(%Y-%m-%d__%I-%M%p)] would output: SKYNET-MASTER_1680897261__2023-04-07__07-54PM
+
+[hostname]
+
+    The hostname of the system executing ComfyUI
+
+[user]
+
+    The user that is executing ComfyUI
+</code></pre>
+<p>Other Features
+Import AUTOMATIC1111 WebUI Styles</p>
+<p>When using the latest builds of WAS Node Suite a was_suite_config.json file will be generated (if it doesn't exist). In this file you can setup a A1111 styles import.</p>
+<pre><code>Run ComfyUI to generate the new /custom-nodes/was-node-suite-comfyui/was_Suite_config.json file.
+
+Open the was_suite_config.json file with a text editor.
+
+Replace the webui_styles value from None to the path of your A1111 styles file called styles.csv. Be sure to use double backslashes for Windows paths.
+
+    Example C:\\python\\stable-diffusion-webui\\styles.csv
+
+Restart ComfyUI
+
+Select a style with the Prompt Styles Node.
+
+    The first ASCII output is your positive prompt, and the second ASCII output is your negative prompt.
+</code></pre>
+<p>You can set webui_styles_persistent_update to true to update the WAS Node Suite styles from WebUI every start of ComfyUI
+Recommended Installation:</p>
+<p>If you're running on Linux, or non-admin account on windows you'll want to ensure /ComfyUI/custom_nodes, was-node-suite-comfyui, and WAS_Node_Suite.py has write permissions.</p>
+<pre><code>Navigate to your /ComfyUI/custom_nodes/ folder
+
+git clone https://github.com/WASasquatch/was-node-suite-comfyui/
+
+Start ComfyUI
+
+    WAS Suite should uninstall legacy nodes automatically for you.
+
+    Tools will be located in the WAS Suite menu.
+</code></pre>
+<p>Alternate Installation:</p>
+<p>If you're running on Linux, or non-admin account on windows you'll want to ensure /ComfyUI/custom_nodes, and WAS_Node_Suite.py has write permissions.</p>
+<pre><code>Download WAS_Node_Suite.py
+
+Move the file to your /ComfyUI/custom_nodes/ folder
+
+Start, or Restart ComfyUI
+
+    WAS Suite should uninstall legacy nodes automatically for you.
+
+    Tools will be located in the WAS Suite menu.
+</code></pre>
+<p>Installing on Colab</p>
+<p>Create a new cell and add the following code, then run the cell. You may need to edit the path to your custom_nodes folder.</p>
+<pre><code>!git clone https://github.com/WASasquatch/was-node-suite-comfyui /content/ComfyUI/custom_nodes/was-node-suite-comfyui
+
+Restart Colab Runtime (don't disconnect)
+
+    Tools will be located in the WAS Suite menu.
+</code></pre>
+<p>Dependencies:</p>
+<p>WAS Node Suite is designed to download dependencies on it's own as needed, but what it depends on can be installed manually before use to prevent any script issues. The dependencies which are not required by ComfyUI are as follows:</p>
+<pre><code>BLIP
+
+    Requires transformers==4.26.1
+
+        You can try to manually install from your /python_embeds/ folder run .\python.exe -m pip install --user --upgrade --force-reinstall transformers==4.26.1
+
+opencv
+
+scipy
+
+pilgram
+
+timm (for MiDaS and BLIP)
+
+    MiDaS Models (they will download automatically upon use and be stored in /ComfyUI/models/midas/checkpoints/, additional files may be installed by PyTorch Hub)
+
+img2texture (for Image Seamless Texture node)
+
+pythonperlin
+
+    Used for the perlin noise. I tried writing three different perlin noise functions but I couldn't get things as fast as this library, even with numpy, and that was really hard to figure out. Haha. I'm just terrible with math. Feel free to PR a in-house version so long as it doesn't take longer than a few seconds. Fastest I got was nearly a minute... Lol
+
+PythonGit
+
+    For downloading repos (such as BLIP)
+</code></pre>
+<p>Github Repository: https://github.com/WASasquatch/was-node-suite-comfyui</p>
+<p>https://civitai.com/user/WAS</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../WASs%20ComfyUI%20Workspaces/" class="md-footer__link md-footer__link--prev" aria-label="Previous: WASs ComfyUI Workspaces" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                WASs ComfyUI Workspaces
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../assemble_tags_node/" class="md-footer__link md-footer__link--next" aria-label="Next: Assemble tags node" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Assemble tags node
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 wyrde licensed as cc-by-sa
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "toc.follow", "toc.integrate", "navigation.top", "navigation.footer", "header.autohide"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      
+    
+  </body>
+</html>
